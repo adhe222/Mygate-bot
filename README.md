@@ -47,7 +47,7 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ## Jalankan bot
 ```bash
-python bot.py
+python mygate.py
 ```
 3. Output
 Script akan menampilkan output berikut:
