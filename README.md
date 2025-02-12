@@ -1,4 +1,6 @@
 # MYGATE AI BOT
+
+![banner](./mgt.png)
 mygate-bot adalah script Python yang dirancang untuk menghasilkan Node ID baru, memeriksa kualitas node, dan menjaga koneksi tetap hidup dengan sinkronisasi setiap 5 detik. Script ini juga mendukung penggunaan proxy dan token otentikasi.
 ## REGISTER
 https://app.mygate.network/login?code=voh8iE
@@ -40,6 +42,7 @@ http://proxy1:port
 http://proxy2:port
 ```
 token.txt : Berisi token otentikasi dalam satu baris:
+![banner](./mgt2.png)
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 ## Jalankan bot
